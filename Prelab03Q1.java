@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Prelab03Q1 {
+public class RentACar {
 
 	public static void main(String[] args) {
 
